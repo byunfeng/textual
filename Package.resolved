@@ -1,5 +1,5 @@
 {
-  "originHash" : "6830735cf1642029fd8d0de11c899e009d69df72c78d3306a3f5a4e839b891b9",
+  "originHash" : "c031f9f8f0a272d08f69415ea12fe7c91efd9beb1c4d6e78ba7ed8536d138086",
   "pins" : [
     {
       "identity" : "swift-concurrency-extras",
@@ -35,6 +35,15 @@
       "state" : {
         "revision" : "0687f71944021d616d34d922343dcef086855920",
         "version" : "600.0.1"
+      }
+    },
+    {
+      "identity" : "swiftui-math",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/byunfeng/swiftui-math",
+      "state" : {
+        "branch" : "main",
+        "revision" : "67305abcf6ce1e5e81868a852b2a91940034235c"
       }
     },
     {
